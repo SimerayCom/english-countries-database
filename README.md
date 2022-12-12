@@ -11,6 +11,7 @@ You can use it by importing it easily.
 Using the isActive column, you can make it active and inactive with the values 1 and 0. Don't forget to query this with the where condition. So you can easily get active and passive countries. According to the system, you can change it to active and passive without deleting it.
 ## Features
 
+- 249 Countries
 - Country Name Language
 - Full Name of Country Name Language
 - Country Alpha2 Code
@@ -20,7 +21,7 @@ Using the isActive column, you can make it active and inactive with the values 1
 - Country Status
 
   
-## Database Screenshot
+## A Small Screenshot from the Database
 
 ![Database Screenshot](https://i.ibb.co/wJ5jQHM/Screenshot-958.png)
 
