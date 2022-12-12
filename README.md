@@ -1,5 +1,5 @@
 
-![Logo](https://www.simeray.com/brand/black-simeray-big.png)
+![Simeray.com](https://www.simeray.com/brand/black-simeray-big.png)
 
     
 # English Countries Database
@@ -18,5 +18,10 @@ Using the isActive column, you can make it active and inactive with the values 1
 - Country Numeric Code
 - Country Name
 - Country Status
+
+  
+## Database Screenshot
+
+![Database Screenshot](https://i.ibb.co/wJ5jQHM/Screenshot-958.png)
 
   
